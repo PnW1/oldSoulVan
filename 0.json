@@ -1,0 +1,118 @@
+{
+  "name": "TAT X OLD SOULS",
+  "symbol": "TAT_OS",
+  "description": "A 1/1 Trippin' Soul Van",
+  "seller_fee_basis_points": 949,
+  "image": "https://arweave.net/ReZZnQhlekxin-xG5VN67Sdq3RW1WaMgljakeBt7S8M?ext=png",
+  "external_url": "https://oldsouls.art/",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "SKY",
+      "value": "Night"
+    },
+    {
+      "trait_type": "SUN",
+      "value": "Trippin' planet"
+    },
+    {
+      "trait_type": "CLOUDS",
+      "value": "None"
+    },
+    {
+      "trait_type": "BG",
+      "value": "Trippin' Ape Tribe Woods"
+    },
+    {
+      "trait_type": "Front",
+      "value": "Shrooms"
+    },
+    {
+      "trait_type": "BACK",
+      "value": "Toxic Fuel"
+    },
+    {
+      "trait_type": "SMOKE",
+      "value": "Acid Smoke"
+    },
+    {
+      "trait_type": "PIPE",
+      "value": "Curly Flask"
+    },
+    {
+      "trait_type": "WHEELS",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "DOWN",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "GRAF ONE",
+      "value": "Trippin'"
+    },
+    {
+      "trait_type": "GRAF TWO",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "GRAF THREE",
+      "value": "Tribe"
+    },
+    {
+      "trait_type": "INTERIOR",
+      "value": "Vanhalla Lab"
+    },
+    {
+      "trait_type": "UPPER",
+      "value": "Melting"
+    },
+    {
+      "trait_type": "CURTAINS",
+      "value": "None"
+    },
+    {
+      "trait_type": "BUMPERS",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "LUGGAGE",
+      "value": "Cauldron"
+    },
+    {
+      "trait_type": "WINDOWS",
+      "value": "Tints"
+    },
+    {
+      "trait_type": "LIGHTS",
+      "value": "Trippy Eyes"
+    },
+    {
+      "trait_type": "MIRROR",
+      "value": "Trippin Ape"
+    },
+    {
+      "trait_type": "DIALOGUE",
+      "value": "NOT A CULT"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/ReZZnQhlekxin-xG5VN67Sdq3RW1WaMgljakeBt7S8M?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "BCJqqXatLeCKZtViBH5iFSQVMx6PnJeFQbSyQypwWuZM",
+        "share": 36.77
+      },
+      {
+        "address": "AKeWnWM6Qk1b6eGakDe2qzLbj9XoKxAxc3UEYoJMtgaZ",
+        "share": 63.23
+      }
+    ]
+  }
+}
