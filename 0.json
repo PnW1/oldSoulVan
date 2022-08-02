@@ -3,7 +3,7 @@
   "symbol": "TAT_OS",
   "description": "A 1/1 Trippin' Soul Van",
   "seller_fee_basis_points": 949,
-  "image": "https://raw.githubusercontent.com/PnW1/oldSoulVan/main/0.png",
+  "image": "https://raw.githubusercontent.com/PnW1/oldSoulVan/main/new.png",
   "external_url": "https://oldsouls.art/",
   "edition": 0,
   "attributes": [
@@ -99,7 +99,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/PnW1/oldSoulVan/main/0.png",
+        "uri": "https://raw.githubusercontent.com/PnW1/oldSoulVan/main/new.png",
         "type": "image/png"
       }
     ],
